@@ -1,0 +1,25 @@
+🚀 Excited to share my latest open-source project: Cursor Composer Extractor!
+
+I've built a tool that lets you extract, save, and convert your AI conversations from Cursor (the AI-powered code editor).
+
+🔍 What can it do?
+• Extract conversations from Cursor's SQLite database
+• Convert rich text to clean Markdown
+• Save as individual files or combined JSON documents
+• Recover even partial or incomplete conversations
+
+💡 Why I built this:
+As I found myself having more valuable conversations with Cursor's AI assistant, I realized there was no built-in way to export or back up these insights. These dialogues are valuable resources that deserve to be preserved!
+
+🛠️ Who is this for?
+• Developers using Cursor who want to save their AI pair programming sessions
+• Researchers studying LLM interactions
+• Teams sharing knowledge from AI assistants
+• Anyone analyzing their coding assistance patterns
+
+The tool is completely open-source under MIT license:
+https://github.com/edu-ap/cursor-composer-extractor
+
+I'd love to hear your thoughts and feedback!
+
+#OpenSource #Python #AI #CursorEditor #DataExtraction #DeveloperTools #SQLite 
