@@ -7,6 +7,12 @@ cursor_conversations.json
 CURSOR_COMPOSER_LOGS_SUMMARY.md
 cursor_log_structure_report.md
 
+# LinkedIn announcement files
+linkedin_*.md
+linkedin_*.txt
+*linkedin*.md
+*linkedin*.txt
+
 # Python related
 __pycache__/
 *.py[cod]
