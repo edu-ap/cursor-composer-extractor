@@ -1,0 +1,8 @@
+# Core dependencies
+# sqlite3 and pathlib are part of the Python standard library
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+html2text>=2020.1.16
+rich>=13.0.0 
